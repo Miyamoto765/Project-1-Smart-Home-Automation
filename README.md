@@ -72,5 +72,3 @@ Project-1-Smart-Home-Automation/
     ├── task2_serial_monitor.png
     └── task2_demo_video.mp4
 ```
-
-> Note: Add photos, videos, and serial monitor screenshots to the `media/` folder before final submission, per the internship checklist.
