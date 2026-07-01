@@ -1,8 +1,8 @@
-## **– Project 1 Smart Home Automation** 
+## **Project 1 Smart Home Automation** 
 
 I worked on a project where I built two embedded systems using an Arduino Uno R4 Wi-Fi. This project was really good for me because I got to try my hand at working with analog sensors and digital sensors. Working with both analog sensors and digital sensors is very important in embedded electronics. I got to learn about analog sensor interfacing and digital sensor interfacing. The Arduino UNO R4 Wi-Fi was a tool to use for this project. I learned a lot about embedded systems and how to work with sensors like analog sensors and digital sensors. 
 
-## **- Task 1: Light Based Automation** 
+## **Task 1: Light Based Automation** 
 
 For this task I used a Light Dependent Resistor arranged in a setup with a 10kΩ resistor. This setup helps to change light into a voltage that I can read. I did this by using the Light Dependent Resistor in a voltage setup with the 10kΩ resistor. I took this voltage reading from pin A0 all the time. 
 
